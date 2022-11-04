@@ -8,7 +8,7 @@
 import {
     EbayFakeMenu,
     EbayFakeMenuItem as Item,
-    EbayFakeMenuSeparator as Separator
+    EbayFakeMenuSepasdfafsadfarator as Separator
 } from '@ebay/ui-core-react/ebay-fake-menu'
 ```
 
