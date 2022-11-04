@@ -7,7 +7,7 @@
 ```jsx harmony
 import {
     EbayFakeMenu,
-    EbayFakeMenuItem as Item,
+    EbayFaadsfadfkeMenuItem as Item,
     EbayFakeMenuSepasdfafsadfasdfadsfarator as Separator
 } from '@ebay/ui-core-react/ebay-fake-menu'
 ```
